@@ -100,7 +100,8 @@ Objective: Understand how revenue, profits, and margins have changed over time. 
 #### - Git/GitHub: For version control, allowing to track changes to all the code, data queries, and reports. Specially useful to work in a team.
 
 Final project at TripleTen
-Links for my 4 dashboards created for the final project as DA.
+Links for my 4 dashboards created for the final project as DA.<br>
+
 [Click here to see live dashboard 1 --> ](https://public.tableau.com/views/final_project_17271879861690/KPIStimedashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Click here to see live dashboard 2 --> ](https://public.tableau.com/views/final_project-2Dashboard/GlobalSalesDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
