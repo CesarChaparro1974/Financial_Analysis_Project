@@ -109,6 +109,7 @@ Objective: Understand how revenue, profits, and margins have changed over time. 
 
 Final project at TripleTen
 Links for my 4 dashboards created for the final project as DA.
+<<<<<<< HEAD
 >>>>>>> d298a9f (Update README.md)
 
 Client: AtliQ Hardware.<br>
@@ -182,6 +183,15 @@ Descriptive Statistics:<br>
 • Analyze the relationship between different metrics (e.g., how does discount percentage affect
 net profit?).<br>
 • Look for correlations between market conditions and profitability.<br>
+=======
+[Click here to see live dashboard 1 --> ](https://public.tableau.com/views/final_project_17271879861690/KPIStimedashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 2 --> ](https://public.tableau.com/views/final_project-2Dashboard/GlobalSalesDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 3 --> ](https://public.tableau.com/views/final_project-3Dashboard/ProfitabilityCategorydashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Click here to see live dashboard 4 --> ](https://public.tableau.com/views/final_project-4Dashboard/GeographicalPlatformMetrics?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+>>>>>>> 5620c96 (Update README.md)
 
 <<<<<<< HEAD
 Identifying Problems or Questions to Address Profitability Issues:<br>
