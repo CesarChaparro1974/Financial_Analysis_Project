@@ -108,6 +108,7 @@ Objective: Understand how revenue, profits, and margins have changed over time. 
 #### - Git/GitHub: For version control, allowing to track changes to all the code, data queries, and reports. Specially useful to work in a team.
 
 Final project at TripleTen
+<<<<<<< HEAD
 Links for my 4 dashboards created for the final project as DA.
 <<<<<<< HEAD
 >>>>>>> d298a9f (Update README.md)
@@ -184,6 +185,10 @@ Descriptive Statistics:<br>
 net profit?).<br>
 • Look for correlations between market conditions and profitability.<br>
 =======
+=======
+Links for my 4 dashboards created for the final project as DA.<br>
+
+>>>>>>> ed3639f (Update README.md)
 [Click here to see live dashboard 1 --> ](https://public.tableau.com/views/final_project_17271879861690/KPIStimedashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Click here to see live dashboard 2 --> ](https://public.tableau.com/views/final_project-2Dashboard/GlobalSalesDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
