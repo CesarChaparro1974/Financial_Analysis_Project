@@ -12,7 +12,7 @@
 * AtliQ Hardware is one of the leading computer harware producers in India, and has even expanded into more than 7 countries as well. They sell different types of hardware to big players such as Amazon, Best Buy, and Walmart.<br>
 ### This year, they're asking PWC to conduct a big audit of their sales and help them automate their existing data.
 
-### Finnancial Analysis:
+### Financial Analysis:
 Objective: Understand how revenue, profits, and margins have changed over time. Analyze shifts in the market and identify the most profitable categories.<br>
 #### Key Questions:<br>
 - How have revenue and profits trended over the years?<br>
