@@ -1,4 +1,4 @@
-![Alt Text](/Users/cesarchaparro/Desktop/TripleTen/Sprint_12_Final_project/Final_Project/Final_project-1)
+![Alt Text](/Users/cesarchaparro/Desktop/TripleTen/Sprint_12_Final_project/Final_Project/Final_project-1/assets/finance.png)
 
 0.1.1 Client: AtliQ Hardware.
 0.1.2 AtliQ Hardware is one of the leading computer harware producers in India, and
