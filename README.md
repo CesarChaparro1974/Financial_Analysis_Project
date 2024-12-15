@@ -32,11 +32,13 @@ facturing_cost * sold_quantity).<br>
 • Profit Margin: Gross profit as a percentage of total revenue.<br>
 • Net Profit: Gross profit minus pre-invoice discounts (gross_profit -
 (pre_invoice_discount_pct * gross_profit)).
-• Net Profit Margin: Net profit as a percentage of total revenue. #### Market and Category
-Metrics:
+• Net Profit Margin: Net profit as a percentage of total revenue. 
+#### Market and Category
+Metrics:<br>
 • Revenue by Market: Revenue broken down by market.
 • Revenue by Platform: Revenue broken down by platform.
-• Profit by Category: Profitability of different segment and category. #### Trend Metrics:
+• Profit by Category: Profitability of different segment and category.<br>
+# Trend Metrics:
 • Market Share: Proportion of total revenue by market.
 • Revenue/Profit by Year: Trend of revenue and profit over time (fiscal_year).
 Data Preparation and Cleaning
@@ -49,18 +51,20 @@ Data Integrity Check:
 • Verify that each single market belongs to a one subzone and one region only. #### Handle
 Missing Data:
 • Identify and address missing values in key columns like gross_price, manufacturing_cost, and
-sold_quantity.<br>
-• Impute or remove records with missing data as appropriate.<br>
-# Feature Engineering:
+sold_quantity.
+• Impute or remove records with missing data as appropriate. 
+#### Feature Engineering:
 • Create new features like gross_profit, net_profit, profit_margin, and net_profit_margin for
 further analysis.
 • Aggregate data by fiscal_year, market, platform, etc., to facilitate trend analysis.
 Exploratory Data Analysis (EDA)
 Descriptive Statistics:
 • Calculate mean, median, and standard deviation for revenue, profit, and margin metrics.
-• Identify outliers or unusual trends in the data. #### Trend Analysis:
+• Identify outliers or unusual trends in the data.<br>
+# Trend Analysis:
 • Plot revenue, profit, and margin over time to visualize trends.
-• Use time series analysis to forecast future revenue and profit. #### Segment Analysis:
+• Use time series analysis to forecast future revenue and profit.<br>
+# Segment Analysis:
 • Break down revenue and profit by platform, market, region, and category.
 • Identify which segments contribute most to overall profitability. #### Correlation Analysis:
 • Analyze the relationship between different metrics (e.g., how does discount percentage affect
@@ -69,7 +73,8 @@ net profit?).
 Identifying Problems or Questions to Address
 Profitability Issues:
 • Are certain markets or platforms less profitable? If so, why?
-• Is there a declining trend in any key categories or segments? #### Market Shifts:
+• Is there a declining trend in any key categories or segments?<br>
+# Market Shifts:
 • Are there shifts in revenue from one platform to another (e.g., from Brick & Mortar to E-
 Commerce)?
 • Are there emerging markets or declining markets based on the data? #### Cost Eﬀiciency:
@@ -89,7 +94,8 @@ Hypothesis Formation and Testing
 Based on the EDA, form hypotheses about what drives revenue and profit. For ex-
 ample:
 • “E-Commerce platform is more profitable due to lower overhead costs.”
-• “The market in Japan has seen a decline due to increased competition.” #### Design
+• “The market in Japan has seen a decline due to increased competition.”<br>
+# Design
 experiments or statistical tests to validate these hypotheses.
 Visualization and Reporting
 Dashboards:
