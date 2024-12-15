@@ -4,8 +4,6 @@
 ![Alt Text](assets/finance.png)
 # Financial Analysis Project.
 =======
-# MOVIE APP USING TMDB
-=======
 # Client: AtliQ Hardware
 >>>>>>> cefa4fe (Update README.md)
 =======
