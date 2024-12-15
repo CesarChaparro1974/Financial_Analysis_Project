@@ -1,12 +1,15 @@
 ![Alt Text](assets/finance.png)
+# Financial Analysis Project.
 
-0.1.1 Client: AtliQ Hardware.
-0.1.2 AtliQ Hardware is one of the leading computer harware producers in India, and
+Client: AtliQ Hardware.<br>
+AtliQ Hardware is one of the leading computer harware producers in India, and
 has even expanded into more than 7 countries as well. They sell different types
-of hardware to big players such as Amazon, Best Buy, and Walmart.
-0.1.3 This year, they’re asking PWC to conduct a big audit of their sales and help
-them automate their existing data.
-0.1.4 FINNANCIAL ANALYSIS
+of hardware to big players such as Amazon, Best Buy, and Walmart.<br>
+
+This year, they’re asking PWC to conduct a big audit of their sales and help
+them automate their existing data.<br>
+
+FINNANCIAL ANALYSIS<br>
 DECOMPOSITION AND RESEARCH TASKS:
 0.1.5 1. Definition of Objectives and Key Questions
 Objective: Understand how revenue, profits, and margins have changed over time.
