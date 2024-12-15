@@ -22,7 +22,7 @@ Key Questions:<br>
 • What categories of products are the most profitable?<br>
 • How have different regions/subzones contributed to revenue and profit?<br>
 • Are there any noticeable shifts in market trends or customer preference.<br>
-Identify the Important Metrics<br>
+# Identify the Important Metrics<br>
 Revenue Metrics:<br>
 • Total Revenue: Sum of gross_price * sold_quantity from fact_sales_monthly.<br>
 • Revenue Growth Rate: Percentage increase/decrease in revenue year-over-year.<br>
