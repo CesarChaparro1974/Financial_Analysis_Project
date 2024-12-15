@@ -16,16 +16,16 @@ Definition of Objectives and Key Questions
 Objective: Understand how revenue, profits, and margins have changed over time.
 Analyze shifts in the market and identify the most profitable categories.<br>
 Key Questions:
-• How have revenue and profits trended over the years?
-• What are the profit margins, and how have they evolved?
-• Which markets, platforms, or channels have driven the most revenue and profit?
-• What categories of products are the most profitable?
-• How have different regions/subzones contributed to revenue and profit?
-• Are there any noticeable shifts in market trends or customer preference.
+• How have revenue and profits trended over the years?<br>
+• What are the profit margins, and how have they evolved?<br>
+• Which markets, platforms, or channels have driven the most revenue and profit?<br>
+• What categories of products are the most profitable?<br>
+• How have different regions/subzones contributed to revenue and profit?<br>
+• Are there any noticeable shifts in market trends or customer preference.<br>
 Identify the Important Metrics<br>
-Revenue Metrics:
-• Total Revenue: Sum of gross_price * sold_quantity from fact_sales_monthly.
-• Revenue Growth Rate: Percentage increase/decrease in revenue year-over-year.
+Revenue Metrics:<br>
+• Total Revenue: Sum of gross_price * sold_quantity from fact_sales_monthly.<br>
+• Revenue Growth Rate: Percentage increase/decrease in revenue year-over-year.<br>
 # Profit
 Metrics:
 • Gross Profit: Revenue minus the manufacturing cost (gross_price * sold_quantity - manu-
