@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Alt Text](assets/finance.png)
 # Financial Analysis Project.
 =======
@@ -7,6 +8,9 @@
 =======
 # Client: AtliQ Hardware
 >>>>>>> cefa4fe (Update README.md)
+=======
+![Alt Text](/Users/cesarchaparro/Desktop/TripleTen/Sprint_12_Final_project/Final_Project/Final_project-1/assets/finance.png)
+>>>>>>> c71280f (added folder and moved photo to folder)
 
 ## Overview
 * AtliQ Hardware is one of the leading computer harware producers in India, and has even expanded into more than 7 countries as well. They sell different types of hardware to big players such as Amazon, Best Buy, and Walmart.<br>
