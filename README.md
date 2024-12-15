@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![Alt Text](assets/finance.png)
 
 Client: AtliQ Hardware.
@@ -136,11 +133,3 @@ Links for my 4 dashboards created for the project.<br>
 4. https://public.tableau.com/views/final_project-4Dashboard/GeographicalPlatformMetrics?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<br>
 
 Cesar Chaparro, Data Analyst.
-=======
-
-<<<<<<< HEAD
-
->>>>>>> d298a9f (Update README.md)
-=======
-
->>>>>>> cefa4fe (Update README.md)
